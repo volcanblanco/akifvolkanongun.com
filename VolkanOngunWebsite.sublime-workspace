@@ -1,0 +1,265 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prevent",
+				"preventDefault"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"magin",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"sp",
+				"space-around"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"file",
+				"fileURLToPath"
+			],
+			[
+				"html",
+				"html"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Instaa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 131.199996948,
+		"history":
+		[
+			"Install Emmet",
+			"Emmet",
+			"Install Package",
+			"install Package",
+			"Emmet",
+			"emmet"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/NT/Desktop/Code/volkanongun.com.new",
+		"/C/Users/NT/Desktop/Code/volkanongun.com.new/src"
+	],
+	"file_history":
+	[
+		"/C/Users/NT/Desktop/GizemCarolina/yemekler.■",
+		"/C/Users/NT/Desktop/Code/volkanongun.com.new/src/style.css",
+		"/C/Users/NT/Desktop/Code/volkanongun.com.new/src/script.js",
+		"/C/Users/NT/Desktop/GizemCarolina/sagrada.λ",
+		"/C/Users/NT/Desktop/Code/Spotify Playlist Downloader/frontend/js/appscript.js",
+		"/C/Users/NT/Desktop/Code/Spotify Playlist Downloader/frontend/css/app.css",
+		"/C/Users/NT/Desktop/Code/Spotify Playlist Downloader/views/index.pug",
+		"/C/Users/NT/Desktop/Code/Spotify Playlist Downloader/server.js",
+		"/C/Users/NT/Desktop/Code/Spotify Playlist Downloader/package.json",
+		"/C/Users/NT/Desktop/Code/Spotify Playlist Downloader/TODO",
+		"/C/Users/NT/AppData/Local/Temp/AI_28_2/ai17092190095.tmp/ai17092190095.txt",
+		"/C/Users/NT/Desktop/Code/Spotify Playlist Downloader/frontend/index.html",
+		"/C/Users/NT/Desktop/Code/Spotify Playlist Downloader/.env",
+		"/C/Users/NT/Desktop/ENPARA.yapilacak.isler",
+		"/C/Users/NT/Desktop/yapilacak isler.txt",
+		"/C/Users/NT/Desktop/ENPARA.yapilacak.isler.txt",
+		"/C/Users/NT/Desktop/YUU ile JAPANESE KONUS.txt",
+		"/C/Users/NT/Desktop/pass.txt",
+		"/C/Users/NT/Desktop/volkanblanco@gmail.com",
+		"/C/Users/NT/Desktop/fikirleri/cihazlar.Ω",
+		"/C/Users/NT/Desktop/fikirler/usability.k",
+		"/C/Users/NT/Desktop/fikirleri/otel.Ω",
+		"/C/Users/NT/Desktop/Gizem/Barcelona-Ashk.Ѳ",
+		"/C/Users/NT/Desktop/Gizem/yemekler.■",
+		"/C/Users/NT/Desktop/Code/volkanongun.com.new/TODO.txt",
+		"/C/Users/NT/Desktop/KENDIME NOTLAR.ᵴ",
+		"/C/Users/NT/Desktop/Sagrada/sagrada.λ",
+		"/C/Users/NT/Desktop/Gizem/mishil.txt",
+		"/C/Users/NT/Desktop/Sagrada/serpent irk kadinlari",
+		"/C/Users/NT/Desktop/cihaz-fikirleri/cihazlar.Ω",
+		"/C/Users/NT/Desktop/mishil.txt",
+		"/C/Users/NT/Desktop/Lady Serpentia Notlari.txt",
+		"/C/Users/NT/Desktop/SerpentiaLadies/S.js",
+		"/C/Users/NT/Desktop/S.js",
+		"/C/Program Files (x86)/Steam/steamapps/common/Fallout 2/ddraw.ini",
+		"/C/Users/NT/Desktop/gizem-walking/src/script.js"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.400001526
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 126.400001526
+	},
+	"pinned_build_system": "",
+	"project": "VolkanOngunWebsite.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
